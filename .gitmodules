@@ -1,0 +1,4 @@
+[submodule "efpopcount"]
+	path = efpopcount
+	url = https://github.com/efnlib/efpopcount.git
+	branch = master
